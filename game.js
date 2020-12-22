@@ -221,5 +221,3 @@ start.addEventListener('click', e => {
     }
 })
 
-//falta contar la puntuacion y poner ganaste o game over
-
